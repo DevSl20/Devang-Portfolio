@@ -1,5 +1,5 @@
 "use client"
-
+import React from "react"
 import { motion } from "framer-motion"
 import { useEffect, useState } from "react"
 import { FaReact, FaHtml5, FaCss3, FaJs, FaPython, FaNode } from 'react-icons/fa'

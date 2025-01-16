@@ -1,5 +1,4 @@
 "use client"
-
 import { motion, AnimatePresence } from "framer-motion"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { useSection } from "@/context/section-context"
